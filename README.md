@@ -1,4 +1,2 @@
 # C-Programming-Lab.
-## 1st Heading
-### 2nd heading
-.
+The repository contains practical work of coding in lab.
